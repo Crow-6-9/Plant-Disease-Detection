@@ -5,7 +5,7 @@ To build and run the Docker container for your Streamlit project, follow these s
 1. **Build the Docker image**:
 
    ```bash
-   docker build -t plant-app .\streamlit_project
+   docker build -t plant-app .\
    ```
 
 2. **Run the Docker container**:
