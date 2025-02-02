@@ -7,7 +7,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 
 set_page_config(
     layout="wide",
-    page_title="CDAC's AI-Powered Plant Disease Detection and Suggestion System",
+    page_title="CDAC's AI-Powered Plant Disease Detection and Suggestion System ",
     page_icon="🌱" 
 )
 
