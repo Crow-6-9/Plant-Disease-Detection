@@ -7,7 +7,7 @@ def compute_about():
 We are a team of five enthusiastic students who developed the **Plant Disease Prediction** application using **Deep Learning**. Our goal is to provide an easy-to-use tool that helps farmers and researchers **detect plant diseases** early, ensuring healthier crops and better yields.  
 
 ### **👨‍💻 Our Team:**  
-🌟 **Akshada**  
+🌟 **Akshata**  
 🌟 **Amit**  
 🌟 **Saloni**  
 🌟 **Shubham**  
