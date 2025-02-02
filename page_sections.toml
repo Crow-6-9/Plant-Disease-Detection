@@ -1,6 +1,6 @@
 [[pages]]
 path = "page/1_home.py"
-name = "CDAC-Plant Disease Prediction"
+name = "CDAC's AI-Powered Plant Disease Detection and Suggestion System"
 icon = "🌿"  
 
 [[pages]]
