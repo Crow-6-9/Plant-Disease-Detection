@@ -20,6 +20,8 @@ warnings.filterwarnings('ignore')
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
+os.environ["OPENAI_API_KEY"]=st.secrets["api_key"]["OPENAI_API_KEY"]
+
 try:
     load_dotenv(
         dotenv_path = os.path.join(current_dir,'..','.env')
